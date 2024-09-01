@@ -1,0 +1,137 @@
+@media(min-width:576px) {
+
+    .home1 {
+        width: 50%;
+    }
+
+    .container3 {
+
+        width: 100%;
+
+    }
+
+    .item4 {
+
+        width: 50%;
+    }
+
+}
+
+@media(min-width:768px) {
+
+    .home1 {
+        width: 50%;
+    }
+
+    .item2 {
+        width: 50%;
+    }
+
+    .details {
+        width: 100%;
+    }
+
+    .container3 {
+
+        width: 50%;
+
+    }
+
+    .item4 {
+
+        width: 50%;
+    }
+
+}
+
+@media(min-width:1024px) {
+    .home1 {
+        width: 50%;
+    }
+
+    .item2 {
+        width: 50%;
+    }
+
+    .details {
+        width: 100%;
+    }
+
+    .container3 {
+
+        width: 80%;
+
+    }
+
+
+    .item4 {
+
+        width: 33.333%;
+    }
+
+}
+
+@media(min-width:1280px) {
+
+    .home1 {
+        width: 50%;
+    }
+
+    .details {
+        width: 49%;
+    }
+
+    .item2 {
+        width: 33.333%;
+        float: left;
+        box-sizing: border-box;
+        padding: 20px;
+        transition: transform 2s;
+        box-shadow: 3px 3px 15px 0px rgba(0, 0, 0, 0.1);
+        position: relative;
+        border-radius: 10px;
+    }
+
+    .details {
+        width: 49%;
+    }
+
+    .container3 {
+
+        width: 80%;
+
+    }
+
+
+
+
+
+
+
+    .Chefs .container {
+        width: 95%;
+        margin: auto;
+
+    }
+
+    .Chefs {
+        margin: 80px;
+    }
+
+    .Chefs h1 {
+        font-size: 4.0625rem;
+    }
+
+    .chefs-text {
+        font-style: normal;
+    }
+
+
+
+
+
+    .item4 {
+
+        width: 30%;
+    }
+}
